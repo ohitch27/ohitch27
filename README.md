@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I have no idea how to use GitHub as of right now but I'm learning
+## Call me back in May and Microsoft will want me as head software engineer
 
 <!--
 **ohitch27/ohitch27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
